@@ -1,6 +1,6 @@
 # Belfiori-Cliente-REST
 
-Esta es una aplicación de escritorio que opera como cliente de los servicios REST desplegados en Microsoft Azure.
+Esta es una aplicación de escritorio (Programado en JAVA) que opera como cliente de los servicios REST desplegados en Microsoft Azure.
 
 Esta aplicación utiliza los servicios de consultar inventario y registrar ventas de los productos.
 
