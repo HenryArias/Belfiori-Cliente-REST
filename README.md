@@ -6,4 +6,7 @@ Esta aplicación utiliza los servicios de consultar inventario y registrar venta
 
 En el archivo AppBelfiori.rar se encuentra el proyecto completo para descargar, incluyendo las librerias utilizadas.
 
+Usuario:        henry
+Contraseña:     kdmep_4
+
 Contacto: havocud@yahoo.com.mx
